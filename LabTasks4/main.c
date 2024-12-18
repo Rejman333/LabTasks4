@@ -1,12 +1,5 @@
 #include <stdio.h>
 #include <math.h>
-/*
-Funkcja my_inpt wprowadza z monitora liczby double a, b, c, d.
-Funkcja my_calc oblicza wyra¿enia:
-
-
-Funkcja my_outpt wyprowadzi na monitor wyniki.
-*/
 
 void my_inpt(double* p_a, double* p_b, double* p_c, double* p_d) {
 	printf("Number a: ");
